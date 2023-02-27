@@ -17,5 +17,5 @@ The third point, I think one of the main reasons is that there are too few stand
 # Connect
 
 - Gitee org: https://gitee.com/ohos-dev
-- Join the org: [https://jee.li/gitee-ohos-dev](https://gitee.com/organizations/ohos-dev/invite?invite=3e2a7f1abe9d0efa49617d8a852d8f815dc9b8ef3c1ce167cd0adb01a5086426e83dfb7567e372c07e42be1c09b9ee3b)
+- Join the org: [Click to apply](https://gitee.com/organizations/ohos-dev/invite?invite=3e2a7f1abe9d0efa49617d8a852d8f815dc9b8ef3c1ce167cd0adb01a5086426e83dfb7567e372c07e42be1c09b9ee3b)
 - Join the group: 752399947
