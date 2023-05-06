@@ -12,6 +12,6 @@ OpenHarmony is constently improving and perfecting. Starting from API9, it is st
 
 # Connect
 
-- Gitee organization: https://gitee.com/ohos-dev
-- Join our gitee organization: [Click to apply](https://gitee.com/organizations/ohos-dev/invite?invite=3e2a7f1abe9d0efa49617d8a852d8f815dc9b8ef3c1ce167cd0adb01a5086426e83dfb7567e372c07e42be1c09b9ee3b)
+- Gitee organization: [https://gitee.com/ohos-dev](https://gitee.com/ohos-dev)
+- Join our gitee organization: Click the "申请加入组织" link in the upper right corner of the [organization homepage](https://gitee.com/ohos-dev)
 - Join the QQ group: 752399947
