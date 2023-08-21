@@ -5,6 +5,8 @@ In 2023, OpenHarmony masters, [@Diemit](https://space.bilibili.com/1570309), [@A
 
 OpenHarmony is growing rapidly. Although, starting from API 9, it is starting to develop a more complete application development system, there are too few open source software for it. We think one of the main reasons is that there are too few officially supported and third-party ports of the L3(Standard) system, or that they are too expensive. If there are no cheaper dev boards or other replacements (port for old phones), no developer will participate in the contribution of open source software, the OpenHarmony ecosystem would be still far from complete and lacking from competitors.
 
+As time goes by, the launch of HDC conference 2023, the release of HarmonyOS Next, the direction of the next step has become more clear. We believe in the near future, we could see an astonishing and new OpenHarmony ecosystem, the future of OpenHarmony has come.
+
 # Vision
 
 - Invite more developers to actively participate in OHOS open source app development
