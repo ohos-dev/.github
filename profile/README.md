@@ -18,9 +18,3 @@ As time goes by, the launch of HDC conference 2023, the release of HarmonyOS Nex
 - Gitee organization: [https://gitee.com/ohos-dev](https://gitee.com/ohos-dev)
 - Join our gitee organization: Click the "申请加入组织" link in the upper right corner of the [organization homepage](https://gitee.com/ohos-dev)
 - Join the QQ group: 752399947
-
-# Navigation
-
-- Project Specifications ``Must-Read for creating projects in the organization``
-
-- Contributors & Projects ``Contributions of Projects in the organization``
