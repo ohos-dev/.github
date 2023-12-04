@@ -1,5 +1,4 @@
 # Origin
-> Formation Date: 2023-02-27
 
 In 2023, OpenHarmony masters, [@Diemit](https://space.bilibili.com/1570309), [@AlgoIdeas](https://space.bilibili.com/36549646) and [@Wathinst](https://space.bilibili.com/384743347) on Bilibili ported OpenHarmony to old phones such as Xiaomi 6, Oneplus 6(T) and POCO F1 (For more details, see [awesome-ohos-org](https://gitee.com/ohos-dev/awesome-ohos-org)). There are also developments on OpenHarmony [OpenHarmony on PCs](https://mp.weixin.qq.com/s/486o6HZyvi0jqyivPnr6lQ). OpenHarmony's development might be destined to become an important part of Chinese localized technology in the future.
 
