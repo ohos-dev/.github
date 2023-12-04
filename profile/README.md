@@ -7,6 +7,19 @@ OpenHarmony is growing rapidly. Although, starting from API 9, it is starting to
 
 As time goes by, the launch of HDC conference 2023, the release of HarmonyOS Next, the direction of the next step has become more clear. We believe in the near future, we could see an astonishing and new OpenHarmony ecosystem, the future of OpenHarmony has come.
 
+# Develop
+
+## 2023-02-27
+
+- Organization established with the name "OHOS Dev"
+ 
+## 2023-11-25
+
+- The organization was officially renamed "开鸿派"
+- All repositories are transferred to the original author's account and an attempt is made to establish a new order. For a list of open source projects, see here: [awesome-ohos-project](https://gitee.com/ohos-dev/awesome-ohos-project)
+- Launched a newly designed LOGO (the color of OpenHarmony, the circle of [**F-OH**](https://github.com/westinyang/f-oh), and the homophonic word π for pie also mean infinite possibilities~)
+- Related video: Officially renamed 开鸿派, the growth path of OpenHarmony open source organization OHOS Dev
+
 # Vision
 
 - Invite more developers to actively participate in OHOS open source app development
@@ -17,4 +30,5 @@ As time goes by, the launch of HDC conference 2023, the release of HarmonyOS Nex
 
 - Gitee organization: [https://gitee.com/ohos-dev](https://gitee.com/ohos-dev)
 - Join our gitee organization: Click the "申请加入组织" link in the upper right corner of the [organization homepage](https://gitee.com/ohos-dev)
+- Bilibili: https://space.bilibili.com/74433635
 - Join the QQ group: 752399947
