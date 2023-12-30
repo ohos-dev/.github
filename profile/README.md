@@ -14,9 +14,9 @@ As time goes by, the launch of HDC conference 2023, the release of HarmonyOS Nex
  
 ## 2023-11-25
 
-- The organization was officially renamed "开鸿派"
-- All repositories are transferred to the original author's account and an attempt is made to establish a new order. For a list of open source projects, see here: [awesome-ohos-project](https://gitee.com/ohos-dev/awesome-ohos-project)
-- Launched a newly designed LOGO (the color of OpenHarmony, the circle of [**F-OH**](https://github.com/westinyang/f-oh), and the homophonic word π for pie also mean infinite possibilities~)
+- The organization was officially renamed "开鸿派"(KaiHong Pie)
+- All repositories are transferred to the original author's account as attempt made to establish a new order. For a list of open source projects, see here: [awesome-ohos-project](https://gitee.com/ohos-dev/awesome-ohos-project)
+- Launched a newly designed LOGO (the color of OpenHarmony, with the circle of [**F-OH**](https://github.com/westinyang/f-oh), and the homophonic word "π" for pie also means infinite possibilities~)
 - Related video: [Officially renamed 开鸿派, the growth path of OpenHarmony open source organization OHOS Dev](https://www.bilibili.com/video/BV1Ma4y1f7MD)
 
 # Vision
